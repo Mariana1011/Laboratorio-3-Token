@@ -1,0 +1,16 @@
+../Core/Src/lcd_i2c.c:9:33:tx	1
+../Core/Src/lcd_i2c.c:12:20:pulse	1
+../Core/Src/lcd_i2c.c:21:20:write4	2
+../Core/Src/lcd_i2c.c:28:20:cmd	1
+../Core/Src/lcd_i2c.c:29:20:data	1
+../Core/Src/lcd_i2c.c:31:26:probe_addr	1
+../Core/Src/lcd_i2c.c:37:19:LCD_Begin	5
+../Core/Src/lcd_i2c.c:62:6:LCD_Init	1
+../Core/Src/lcd_i2c.c:76:6:LCD_Clear	1
+../Core/Src/lcd_i2c.c:77:6:LCD_Home	1
+../Core/Src/lcd_i2c.c:78:6:LCD_DisplayOn	2
+../Core/Src/lcd_i2c.c:80:6:LCD_Backlight	2
+../Core/Src/lcd_i2c.c:87:6:LCD_Goto	1
+../Core/Src/lcd_i2c.c:93:6:LCD_Print	2
+../Core/Src/lcd_i2c.c:98:6:LCD_PrintAt	1
+../Core/Src/lcd_i2c.c:104:6:LCD_Printf	1
